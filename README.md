@@ -2,7 +2,7 @@
 # Project Overview
 This Power BI project provides a comprehensive, interactive view of sales data. It transforms raw sales data into actionable business insights, allowing stakeholders to track top-performing products, analyze total sales and profit, quantity ordered by product line and evaluate customer number across various regions.🚀
 
-# Key Features📈 
+# Key Features📈  
 # Visualizations
 1. Top 10 Selling Products: A stacked bar chart highlighting the highest-selling products.
 2. Sales by Product Line: A visual breakdown of the sum of sales across different product lines.
