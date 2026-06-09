@@ -28,5 +28,5 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 
 # Repository Structure
 -> Data: <br/>
--> Sales and Customers Analytics dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.png"<br/>
--> Dashboard Screenshot: 
+-> Sales and Customers Analytics dashboard:
+-> Dashboard Screenshot:  "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.png"<br/>
