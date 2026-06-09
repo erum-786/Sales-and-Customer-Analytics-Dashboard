@@ -30,5 +30,8 @@ Dynamic slicers and KPIs allow users to filter and view the following metrics in
 # Repository Structure
 -> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
 -> Sales and Customers Analytics dashboard: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard.pbix <br/>
--> dashboard PDF: " " <br/>
+-> dashboard PDF: "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Sales%20and%20Customer%20Analytics%20Dashboard%20pdf.pdf" <br/>
 -> Dashboard Screenshot:  "https://github.com/erum-786/Sales-and-Customer-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.png"<br/>
+
+# Connect with me
+-> Linkedin: "https://www.linkedin.com/in/erum-mansoori"
