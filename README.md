@@ -37,7 +37,9 @@ The report is structured into the following key sections:  <br/>
 -> dashboard PDF: "https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Global%20Sales%20%26%20Analytics%20Project%20pdf.pdf" <br/>
 
 # Connect with me
--> Linkedin: "https://www.linkedin.com/in/erum-mansoori"
+-> Linkedin: "https://www.linkedin.com/in/erum-mansoori"  <br/>
+
+# Dashboards Images:
 <img width="993" height="553" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/f6b48ae5-3d4d-493b-91ba-2b0f23f5191e" />
 <img width="924" height="522" alt="Customer Analystics Dashboard Screenshot" src="https://github.com/user-attachments/assets/ddbbeb33-9331-427e-904a-4619c7a2aa6f" />
 <img width="865" height="486" alt="Analysis based on product line" src="https://github.com/user-attachments/assets/485081b6-6f43-49b5-8d96-97b838e151cc" />
