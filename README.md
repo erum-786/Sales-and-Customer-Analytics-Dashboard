@@ -5,13 +5,13 @@ Welcome to the Global Sales & Analytics Power BI project! This repository contai
 This Power BI project transforms raw global sales data into actionable business insights. It features a multi-page dashboard system equipped with rich visualizations, dynamic filtering, and intuitive navigation to empower data-driven decision-making. 
 
 # 🛠️ Dashboards & Features 
-The report is structured into the following key sections: 
+The report is structured into the following key sections:  <br/>
 
-• 📈 Executive Sales Summary Dashboard: Provides a high-level overview of total sales, profit,most ordered product and total quantity ordered. It features top 10 selling products, sales trends by product line, top-performing countries using map, quantity ordered by productline and interactive KPIs. 
-• 📊 Sales Trend Analysis: Analyzes Sales Trend based on product name, top 5 selling products, sum of sales by city, total sales by months. Use Cards to represent the data in better way and show total total sales, profit % based on year and countries represented using slicers.
-• 👥 Customer Analytics: Analyzes customer demographics, purchasing behavior, and segmentation. It helps identify high-value customers and regional buying patterns. 
-• 📦 Product Line Analysis: Breaks down sales and profitability by product categories. Highlights best and worst-performing products, allowing for better inventory and marketing strategies. 
-• 💡 Interactive Tooltip: Custom-built tooltips are embedded across the dashboards to provide instant, detailed context (such as sub-category breakdowns) when hovering over data points. 
+• 📈 Executive Sales Summary Dashboard: Provides a high-level overview of total sales, profit,most ordered product and total quantity ordered. It features top 10 selling products, sales trends by product line, top-performing countries using map, quantity ordered by productline and interactive KPIs. <br/>
+• 📊 Sales Trend Analysis: Analyzes Sales Trend based on product name, top 5 selling products, sum of sales by city, total sales by months. Use Cards to represent the data in better way and show total total sales, profit % based on year and countries represented using slicers. <br/>
+• 👥 Customer Analytics: Analyzes customer demographics, purchasing behavior, and segmentation. It helps identify high-value customers and regional buying patterns. <br/> 
+• 📦 Product Line Analysis: Breaks down sales and profitability by product categories. Highlights best and worst-performing products, allowing for better inventory and marketing strategies. <br/> 
+• 💡 Interactive Tooltip: Custom-built tooltips are embedded across the dashboards to provide instant, detailed context (such as sub-category breakdowns) when hovering over data points. <br/> 
 
 # 🛠️ Tools & Technologies Used
 1. Visualization: Power BI Desktop
@@ -22,10 +22,10 @@ The report is structured into the following key sections:
 6. Power BI Visualization
 
 # 🏗️ Technical Highlights 
-• Data Modeling: Star schema with clear relationships between fact tables (Sales) and dimension tables (Customers, Products,etc). 
-• DAX Measures: Utilizes advanced DAX formulas for complex calculations, including Year-to-Date (YTD) calculations, ,creating new columns and measures, and dynamic KPI targets. 
-• Data Visualization: Leverages a variety of visuals including matrix tables, clustered bar charts, donut charts, and line graphs for trend analysis. 
-• UI/UX Design: Built with a focus on user accessibility, featuring clean navigation buttons,cards, and KPI cards. 
+• Data Modeling: Star schema with clear relationships between fact tables (Sales) and dimension tables (Customers, Products,etc). <br/>
+• DAX Measures: Utilizes advanced DAX formulas for complex calculations, including Year-to-Date (YTD) calculations, ,creating new columns and measures, and dynamic KPI targets. <br/>
+• Data Visualization: Leverages a variety of visuals including matrix tables, clustered bar charts, donut charts, and line graphs for trend analysis. <br/> 
+• UI/UX Design: Built with a focus on user accessibility, featuring clean navigation buttons,cards, and KPI cards. <br/>
 
 # Repository Structure
 -> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
@@ -35,11 +35,4 @@ The report is structured into the following key sections:
 
 # Connect with me
 -> Linkedin: "https://www.linkedin.com/in/erum-mansoori"
-
-
-🚀 How to View & Interact 
-
-1. Download the  file: Clone or download this repository to your local machine. 
-2. Open in Power BI Desktop: Ensure you have Power BI Desktop installed on your computer. 
-3. Explore: Open the  file in the application to interact with the filters, slicers, and drill-through features. 
-
+<img width="993" height="553" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/f6b48ae5-3d4d-493b-91ba-2b0f23f5191e" />
