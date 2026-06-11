@@ -29,10 +29,7 @@ The report is structured into the following key sections:  <br/>
 
 # Repository Structure
 -> Data: customers.csv, employees.csv, offices.csv, order details.csv, orders.csv, payments.csv, productlines.csv <br/>
--> Power BI Project: "https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Global%20Sales%20%26%20Analytics%20Project.pbix" <br/><img width="924" height="522" alt="Customer Analystics Dashboard Screenshot" src="https://github.com/user-attachments/assets/ddbbeb33-9331-427e-904a-4619c7a2aa6f" />
-<img width="865" height="486" alt="Analysis based on product line" src="https://github.com/user-attachments/assets/485081b6-6f43-49b5-8d96-97b838e151cc" />
-<img width="867" height="487" alt="Sales Trend Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/121b27e3-f1e8-43be-a3c9-46a5f69ea42f" />
-
+-> Power BI Project: "https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Global%20Sales%20%26%20Analytics%20Project.pbix" <br/>
 -> Executive Sales Summary dashboard Screeshot: "exec -> https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Executive%20Sales%20Summary%20Dashboard%20Screenshot.png" <br/>
 -> Sales Trend Analysis Dashboard: "https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Sales%20Trend%20Analysis%20Dashboard%20Screenshot.png" <br/>
 -> Customer Analytics Dashboard Screenshot: "https://github.com/erum-786/Global-Sales-and-Analytics-Power-BI-Project/blob/main/Customer%20Analystics%20Dashboard%20Screenshot.png" <br/>
@@ -42,3 +39,7 @@ The report is structured into the following key sections:  <br/>
 # Connect with me
 -> Linkedin: "https://www.linkedin.com/in/erum-mansoori"
 <img width="993" height="553" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/f6b48ae5-3d4d-493b-91ba-2b0f23f5191e" />
+<img width="924" height="522" alt="Customer Analystics Dashboard Screenshot" src="https://github.com/user-attachments/assets/ddbbeb33-9331-427e-904a-4619c7a2aa6f" />
+<img width="865" height="486" alt="Analysis based on product line" src="https://github.com/user-attachments/assets/485081b6-6f43-49b5-8d96-97b838e151cc" />
+<img width="867" height="487" alt="Sales Trend Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/121b27e3-f1e8-43be-a3c9-46a5f69ea42f" />
+
